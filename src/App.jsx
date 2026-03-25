@@ -11,6 +11,7 @@ import {
   Compass,
   Star,
 } from "lucide-react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 /* ================= USERS ================= */
 const USERS_LIST = [
@@ -309,6 +310,9 @@ export default function App() {
       {showLogin && (
         <LoginModal onLogin={handleLogin} onClose={() => setShowLogin(false)} />
       )}
+
+      {/* SPEED INSIGHTS */}
+      <SpeedInsights />
     </div>
   );
 }
