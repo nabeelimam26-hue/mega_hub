@@ -320,12 +320,18 @@ function LoginModal({ onLogin, onClose }) {
   return (
     <div className="fixed inset-0 bg-black/70 flex justify-center items-center">
       <div className="bg-[#1e293b] p-6 rounded">
-        <input onChange={(e) => setU(e.target.value)} placeholder="user" />
         <input
-          type="password"
-          onChange={(e) => setP(e.target.value)}
-          placeholder="pass"
-        />
+  placeholder="Username"
+  className="w-full mb-3 p-2 bg-gray-700 text-white placeholder-gray-400 rounded outline-none"
+  onChange={(e) => setU(e.target.value)}
+/>
+
+<input
+  type="password"
+  placeholder="Password"
+  className="w-full mb-4 p-2 bg-gray-700 text-white placeholder-gray-400 rounded outline-none"
+  onChange={(e) => setP(e.target.value)}
+/>
         <button onClick={() => onLogin(u, p)}>Login</button>
         <button onClick={onClose}>Cancel</button>
       </div>
