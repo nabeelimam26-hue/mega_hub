@@ -332,8 +332,19 @@ function LoginModal({ onLogin, onClose }) {
   className="w-full mb-4 p-2 bg-gray-700 text-white placeholder-gray-400 rounded outline-none"
   onChange={(e) => setP(e.target.value)}
 />
-        <button onClick={() => onLogin(u, p)}>Login</button>
-        <button onClick={onClose}>Cancel</button>
+        <button
+  onClick={() => onLogin(u, p)}
+  className="w-full bg-blue-600 p-2 rounded mb-2"
+>
+  Login
+</button>
+
+<button
+  onClick={onClose}
+  className="w-full text-gray-400"
+>
+  Cancel
+</button>
       </div>
     </div>
   );
