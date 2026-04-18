@@ -1,20 +1,24 @@
- HEAD
+<div align="center">
+
 # mega_hub
 
-# React + Vite
+**A powerful, centralized hub for your digital ecosystem.**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mega Hub is designed to streamline your workflows, offering a unified interface for all your connected services. Built with speed and modern development standards in mind.
 
-Currently, two official plugins are available:
+[Website](https://your-link.com) • [Docs](https://your-link.com/docs) • [Discord](https://discord.gg/your-invite) • [Twitter](https://twitter.com/your-handle)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[![Stars](https://img.shields.io/github/stars/nabeelimam26-hue/mega_hub?style=flat-square&color=blue)](https://github.com/nabeelimam26-hue/mega_hub/stargazers)
+[![License](https://img.shields.io/github/license/nabeelimam26-hue/mega_hub?style=flat-square&color=orange)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](#)
 
-## React Compiler
+</div>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Quick Start
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
- d3bb653 (final build)
+Get the development environment up and running in seconds.
+
+```bash
+git clone [https://github.com/nabeelimam26-hue/mega_hub.git](https://github.com/nabeelimam26-hue/mega_hub.git) && cd mega_hub && npm install && npm run dev
