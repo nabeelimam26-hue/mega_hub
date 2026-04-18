@@ -1,57 +1,55 @@
-<div align="center">
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=MEGA%20HUB&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-# mega_hub
+<h1 align="center">🚀 mega_hub</h1>
+<h3 align="center">A powerful, centralized hub for your digital ecosystem</h3>
 
-**A powerful, centralized hub for your digital ecosystem.**
-
-Mega Hub is designed to streamline your workflows, offering a unified interface for all your connected services. Built with speed and modern development standards in mind.
-
-[Website](https://your-link.com) • [Docs](https://your-link.com/docs) • [Discord](https://discord.gg/your-invite) • [Twitter](https://twitter.com/your-handle)
-
-[![Stars](https://img.shields.io/github/stars/nabeelimam26-hue/mega_hub?style=flat-square&color=blue)](https://github.com/nabeelimam26-hue/mega_hub/stargazers)
-[![License](https://img.shields.io/github/license/nabeelimam26-hue/mega_hub?style=flat-square&color=orange)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](#)
-
-</div>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/nabeelimam26-hue/mega_hub?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/github/forks/nabeelimam26-hue/mega_hub?style=for-the-badge"/></a>
+</p>
 
 ---
 
-## Quick Start
+## 👋 About The Project
 
-Get the development environment up and running in seconds.
+✨ **Mega Hub** is your all-in-one digital command center.  
+Streamline workflows. Connect services. Build faster.
 
-```bash
-git clone [https://github.com/nabeelimam26-hue/mega_hub.git](https://github.com/nabeelimam26-hue/mega_hub.git) && cd mega_hub && npm install && npm run dev
-Builds the React frontend using Vite, optimizes assets, and launches a local development server with Hot Module Replacement (HMR).
+💡 Built with modern dev standards to keep things clean, fast, and scalable.
 
-Requirements: Node.js (v18+), npm or yarn.
+---
 
-Documentation
-Getting Started
-Introduction - What is mega_hub?
+## ⚡ Features
 
-Quick Start Guide - 5 minutes to deployment.
+- 🚀 Lightning-fast React + Vite setup  
+- 🔌 Modular architecture (plug & play services)  
+- 🎨 Clean UI with Tailwind / CSS Modules  
+- 📦 Optimized builds (OXC / SWC)  
+- 🧠 Developer-friendly structure  
 
-Environment Setup - Configuring your .env files.
+---
 
-Contributing - How to help the project.
+## 🛠️ Tech Stack
 
-Tech Stack
-Frontend: React + Vite
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,js,css,nodejs,git" />
+</p>
 
-Styling: CSS Modules / Tailwind (edit as needed)
+---
 
-Compiler: Optimized with Oxc/SWC
+## 🚀 Quick Start
 
-Linting: ESLint with production-ready rules
+git clone https://github.com/nabeelimam26-hue/mega_hub.git
+cd mega_hub
+npm install
+npm run dev
 
-How it works
-Modular Architecture: Easily plug in new services to your hub.
-
-Blazing Fast: Powered by Vite for nearly instant builds.
-
-Responsive: Designed to work on desktop, tablet, and mobile.
-
-<div align="center">
-<sub>Built with ❤️ by <a href="https://www.google.com/search?q=https://github.com/nabeelimam26-hue">nabeelimam26-hue</a> and contributors.</sub>
-</div>
+    📊 Stats
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nabeelimam26-hue&show_icons=true&theme=radical"/> </p>
+🌐 Connect
+<p align="center"> <a href="#">🌍 Website</a> • <a href="#">📄 Docs</a> • <a href="#">💬 Discord</a> </p>
+<p align="center">⭐ Star this repo if it helped you</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/> </p> 
