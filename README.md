@@ -42,12 +42,12 @@ Streamline workflows. Connect services. Build faster.
 ---
 
 ## 🚀 Quick Start
-'''bash
+```bash
 git clone https://github.com/nabeelimam26-hue/mega_hub.git
 cd mega_hub
 npm install
 npm run dev
-
+```
     📊 Stats
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nabeelimam26-hue&show_icons=true&theme=radical"/> </p>
 🌐 Connect
