@@ -42,7 +42,7 @@ Streamline workflows. Connect services. Build faster.
 ---
 
 ## 🚀 Quick Start
-
+'''bash
 git clone https://github.com/nabeelimam26-hue/mega_hub.git
 cd mega_hub
 npm install
